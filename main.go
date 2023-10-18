@@ -1,3 +1,6 @@
 package main
+pachage 1
 
-func main{} 
+func main{
+  
+} 
